@@ -1,11 +1,11 @@
-# 💤 Sleep Data Analysis Project
+#  Sleep Data Analysis Project
 
 This project aimed to perform an exploratory and statistical analysis of a real-world dataset related to patients' sleep.  
 The dataset included personal characteristics (age, weight, height, gender), lifestyle habits (alcohol, screen time, smoking), and the presence or absence of insomnia.
 
 ---
 
-## 📌 Methodology
+##  Methodology
 
 ### 1️⃣ Descriptive and Inferential Analysis
 - Creation of new variables: BMI and BMI category (Normal / Overweight)
@@ -30,7 +30,7 @@ The dataset included personal characteristics (age, weight, height, gender), lif
 
 ---
 
-## 🛠️ Skills Applied
+##  Skills Applied
 
 - **Python** (Pandas, Seaborn, Scipy, Scikit-learn, Prince)
 - **Statistical modeling** and hypothesis testing
@@ -39,7 +39,7 @@ The dataset included personal characteristics (age, weight, height, gender), lif
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Hajar Badraoui  
 [GitHub Profile](https://github.com/Hajar-badr)  
